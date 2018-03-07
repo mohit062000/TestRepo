@@ -1,3 +1,6 @@
 Hello Mohit Bansal JI
 Hello MB
+public static void Method()
+
+
 
